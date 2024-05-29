@@ -1,0 +1,95 @@
+{
+    "ragas": [
+      {
+        "id": 1,
+        "name": "Yaman",
+        "thaat": "Kalyan",
+        "arohana": ["N", "R", "G", "M#", "D", "N", "S'"],
+        "avarohana": ["S'", "N", "D", "P", "M#", "G", "R", "S"],
+        "vadi": "G",
+        "samvadi": "N"
+      },
+      {
+        "id": 2,
+        "name": "Bhairav",
+        "thaat": "Bhairav",
+        "arohana": ["S", "R", "G", "M", "P", "D", "N", "S'"],
+        "avarohana": ["S'", "N", "D", "P", "M", "G", "R", "S"],
+        "vadi": "D",
+        "samvadi": "R"
+      },
+      {
+        "id": 3,
+        "name": "Bageshree",
+        "thaat": "Kafi",
+        "arohana": ["N", "S", "G", "M", "D", "N", "S'"],
+        "avarohana": ["S'", "N", "D", "P", "M", "G", "R", "S"],
+        "vadi": "M",
+        "samvadi": "S"
+      },
+      {
+        "id": 4,
+        "name": "Bhairavi",
+        "thaat": "Bhairavi",
+        "arohana": ["S", "R", "G", "M", "P", "D", "N", "S'"],
+        "avarohana": ["S'", "N", "D", "P", "M", "G", "R", "S"],
+        "vadi": "M",
+        "samvadi": "S"
+      },
+      {
+        "id": 5,
+        "name": "Desh",
+        "thaat": "Khamaj",
+        "arohana": ["N", "S", "R", "M", "P", "N", "S'"],
+        "avarohana": ["S'", "N", "D", "P", "M", "R", "G", "S"],
+        "vadi": "R",
+        "samvadi": "P"
+      },
+      {
+        "id": 6,
+        "name": "Kafi",
+        "thaat": "Kafi",
+        "arohana": ["S", "R", "G", "M", "P", "D", "N", "S'"],
+        "avarohana": ["S'", "N", "D", "P", "M", "G", "R", "S"],
+        "vadi": "P",
+        "samvadi": "S"
+      },
+      {
+        "id": 7,
+        "name": "Marwa",
+        "thaat": "Marwa",
+        "arohana": ["S", "R", "G", "M#", "D", "N", "S'"],
+        "avarohana": ["S'", "N", "D", "M#", "G", "R", "S"],
+        "vadi": "R",
+        "samvadi": "D"
+      },
+      {
+        "id": 8,
+        "name": "Kedar",
+        "thaat": "Kalyan",
+        "arohana": ["S", "M", "P", "M#", "D", "N", "S'"],
+        "avarohana": ["S'", "N", "D", "P", "M#", "G", "R", "S"],
+        "vadi": "M",
+        "samvadi": "S"
+      },
+      {
+        "id": 9,
+        "name": "Darbari Kanada",
+        "thaat": "Asavari",
+        "arohana": ["S", "R", "G", "M", "P", "D", "N", "S'"],
+        "avarohana": ["S'", "N", "D", "P", "M", "G", "R", "S"],
+        "vadi": "R",
+        "samvadi": "P"
+      },
+      {
+        "id": 10,
+        "name": "Bilawal",
+        "thaat": "Bilawal",
+        "arohana": ["S", "R", "G", "M", "P", "D", "N", "S'"],
+        "avarohana": ["S'", "N", "D", "P", "M", "G", "R", "S"],
+        "vadi": "D",
+        "samvadi": "G"
+      }
+    ]
+  }
+  
